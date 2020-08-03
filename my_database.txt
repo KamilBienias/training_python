@@ -1,0 +1,1 @@
+{"name": "John", "salary": 1280, "bonus": true}
